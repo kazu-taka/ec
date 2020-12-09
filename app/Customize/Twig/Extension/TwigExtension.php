@@ -52,6 +52,7 @@ class TwigExtension extends \Twig_Extension
         );
     }
 
+
     /**
      * Name of this extension
      *
